@@ -30,7 +30,8 @@ img{
   border-radius: 0 1rem 1rem 0;
   width: inherit;
   height: inherit;
-  opacity: 65%;
+  mix-blend-mode:multiply;
+  opacity: 82%;
 }
 .l_container{
   display: flex;
